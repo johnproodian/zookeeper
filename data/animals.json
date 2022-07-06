@@ -136,6 +136,15 @@
         "zany"
       ],
       "id": "13"
+    },
+    {
+      "name": "tootles",
+      "species": "cat",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
