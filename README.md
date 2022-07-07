@@ -1,16 +1,17 @@
 # Zoo Keepr
 
-A digital 
-Digital information management system
-  - allow zoo admins manage operations more effectively
-  - making educational information online
+A digital information management system that allows zoo administrators add to and keep track of their catalogs of animals and zookeepers.
 
-back end application that will handle the data management requests from existing front end
+My role was to create a back end application that handled the data management requests from an existing front end and stored all the data in a JSON file.
 
-configure an to handle http requests from client side app
+## Usage
+* To add an animal or zookeeper to the catalog, fill in the required fields on the home page and click 'Add Animal' or 'Add Zookeeper.'
+* To view the catalog of animals or zookeeper, click 'View Animals' or 'View Zookeepers.'
 
-
-
+## Built With
+* JavaScript
+* Node.js
+* Express.js
 
 ## Website
 http://whispering-lowlands-06068.herokuapp.com/
